@@ -31,6 +31,7 @@
 
 ```bash
 pkg update && pkg upgrade -y
+pkg install git -y
 git clone https://github.com/Dark-Syndicate-official/Dark-OS.git
 cd Dark-OS
 chmod +x dark_syndicate_os_v2_5.sh
